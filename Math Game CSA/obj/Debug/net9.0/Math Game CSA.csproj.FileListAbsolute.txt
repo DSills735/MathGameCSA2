@@ -1,0 +1,14 @@
+C:\Users\David\MathGameCSA2\Math Game CSA\bin\Debug\net9.0\Math Game CSA.exe
+C:\Users\David\MathGameCSA2\Math Game CSA\bin\Debug\net9.0\Math Game CSA.deps.json
+C:\Users\David\MathGameCSA2\Math Game CSA\bin\Debug\net9.0\Math Game CSA.runtimeconfig.json
+C:\Users\David\MathGameCSA2\Math Game CSA\bin\Debug\net9.0\Math Game CSA.dll
+C:\Users\David\MathGameCSA2\Math Game CSA\bin\Debug\net9.0\Math Game CSA.pdb
+C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\Math Game CSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\Math Game CSA.AssemblyInfoInputs.cache
+C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\Math Game CSA.AssemblyInfo.cs
+C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\Math Game CSA.csproj.CoreCompileInputs.cache
+C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\Math Game CSA.dll
+C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\refint\Math Game CSA.dll
+C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\Math Game CSA.pdb
+C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\Math Game CSA.genruntimeconfig.cache
+C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\ref\Math Game CSA.dll
