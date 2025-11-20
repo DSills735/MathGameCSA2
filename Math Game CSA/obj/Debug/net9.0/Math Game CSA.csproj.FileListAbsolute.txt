@@ -12,3 +12,4 @@ C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\refint\Math Game CSA.
 C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\Math Game CSA.pdb
 C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\Math Game CSA.genruntimeconfig.cache
 C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\ref\Math Game CSA.dll
+C:\Users\David\MathGameCSA2\Math Game CSA\obj\Debug\net9.0\Math Game CSA.sourcelink.json
